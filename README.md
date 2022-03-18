@@ -1,5 +1,5 @@
-Yo, We are the Blargle Fishes!!
-We are a high school robotics team, and this is where we post our opensource code, to help other teams, and ourselves!!
+Hey there, we are the one and only Blarglefish!!
+We are a high school robotics team, and this is where we post our opensoruce code! We mostly post it to help out our fellow FIRST robotics teams, so feel free to use it!! :) and best of luck at competition! :D
 
 
 <!---
